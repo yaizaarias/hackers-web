@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yaizaarias.github.io/hackers-web/sitemap.xml

@@ -211,27 +211,6 @@ ul li {
     text-align: left;
 }
 
-/* FOOTER */
-footer {
-    background-color: #111827;
-    padding: 2.5rem 1.25rem;
-    margin-top: 5rem;
-}
-
-.footer-content {
-    max-width: 68.75rem;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    /* Permite que los elementos pasen a otra línea si no caben */
-    gap: 1.875rem;
-}
-
-.footer-content h3 {
-    color: #38bdf8;
-    margin-bottom: 0.625rem;
-}
 
 /* FORMULARIO */
 .form-card {
